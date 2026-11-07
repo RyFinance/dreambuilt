@@ -1,0 +1,13 @@
+name: West Coast Contemporary
+era: 1995-2025
+summary: Surrey-style family home with a tall two-storey entry, a three-car garage out front, low hipped roofs, stone and stucco, an open-to-below foyer and a spice kitchen.
+roof: {kind: hip, pitch: 7, overhang: 2.0}
+porch: {column: square, pier_height: 3.0, depth: 6}
+windows: {grille: "0/0", operation: casement, trim: 0.5, sill_height: 2.0, head_height: 8.0}
+front_door: {lites: 0, panels: 2}
+siding: {walls: stucco, exposure: 0.5, gables: stucco}
+floor_z: 1.0
+ceiling: 10.0
+details: [three-car-garage, double-height-entry, spice-kitchen, gable-windows, window-hoods, stone-entry]
+pattern_book: {catalog: "Estate Homes", tagline: "Room to grow, room to gather"}
+layout: {aspect: 1.25, estate: true, porch: grand, porch_width: 0, porch_depth: 6, porch_pitch: 7, columns: square, roof_ridge: long}

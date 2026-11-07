@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17in" height="11in" viewBox="0 0 1224 792">
+<rect width="1224" height="792" fill="#f2e8cf"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M54 763.2 L1195.2 763.2 L1195.2 28.8 L54 28.8 Z" stroke="#3b2816" stroke-width="1.33"/>
+<path d="M48.96 768.24 L1200.24 768.24 L1200.24 23.76 L48.96 23.76 Z" stroke="#3b2816" stroke-width="0.43"/>
+<path d="M44.64 763.2 L54 753.84 L63.36 763.2 L54 772.56 Z" fill="#3b2816" fill-rule="evenodd" stroke="#3b2816" stroke-width="0.43"/>
+<circle cx="54" cy="763.2" r="14.4" stroke="#3b2816" stroke-width="0.43"/>
+<path d="M1185.84 763.2 L1195.2 753.84 L1204.56 763.2 L1195.2 772.56 Z" fill="#3b2816" fill-rule="evenodd" stroke="#3b2816" stroke-width="0.43"/>
+<circle cx="1195.2" cy="763.2" r="14.4" stroke="#3b2816" stroke-width="0.43"/>
+<path d="M1185.84 28.8 L1195.2 19.44 L1204.56 28.8 L1195.2 38.16 Z" fill="#3b2816" fill-rule="evenodd" stroke="#3b2816" stroke-width="0.43"/>
+<circle cx="1195.2" cy="28.8" r="14.4" stroke="#3b2816" stroke-width="0.43"/>
+<path d="M44.64 28.8 L54 19.44 L63.36 28.8 L54 38.16 Z" fill="#3b2816" fill-rule="evenodd" stroke="#3b2816" stroke-width="0.43"/>
+<circle cx="54" cy="28.8" r="14.4" stroke="#3b2816" stroke-width="0.43"/>
+<path d="M54 694.8 L1195.2 694.8" stroke="#3b2816" stroke-width="1.33"/>
+<path d="M428.4 763.2 L428.4 694.8" stroke="#3b2816" stroke-width="0.47"/>
+<path d="M730.8 763.2 L730.8 694.8" stroke="#3b2816" stroke-width="0.47"/>
+<path d="M889.2 763.2 L889.2 694.8" stroke="#3b2816" stroke-width="0.47"/>
+<path d="M1054.8 763.2 L1054.8 694.8" stroke="#3b2816" stroke-width="0.47"/>
+<text x="64.8" y="714.24" font-family="'Times New Roman', Times, serif" font-size="14" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none" letter-spacing="2.5">THE ASHBURY</text>
+<text x="64.8" y="731.52" font-family="'Times New Roman', Times, serif" font-size="7.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#3b2816" stroke="none">CRAFTSMAN (1905-1930) - 1-STORY</text>
+<text x="64.8" y="756" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#8c2f1b" stroke="none">CONCEPT SET - NOT FOR CONSTRUCTION</text>
+<text x="437.04" y="707.04" font-family="'Times New Roman', Times, serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">SHEET TITLE</text>
+<text x="437.04" y="740.16" font-family="'Times New Roman', Times, serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none" letter-spacing="1.25">SCHEDULES</text>
+<text x="739.44" y="707.04" font-family="'Times New Roman', Times, serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">SCALE</text>
+<text x="739.44" y="740.16" font-family="'Times New Roman', Times, serif" font-size="8.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Not to scale</text>
+<text x="897.84" y="707.04" font-family="'Times New Roman', Times, serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">DATE / DRAWN BY</text>
+<text x="897.84" y="732.96" font-family="'Times New Roman', Times, serif" font-size="8.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2026-01-01</text>
+<text x="897.84" y="748.8" font-family="'Times New Roman', Times, serif" font-size="7.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#3b2816" stroke="none">Dream Built</text>
+<text x="1063.44" y="707.04" font-family="'Times New Roman', Times, serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">SHEET</text>
+<text x="1125" y="747.36" font-family="'Times New Roman', Times, serif" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#3b2816" stroke="none">A5.1</text>
+<text x="86.4" y="68.4" font-family="'Times New Roman', Times, serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none" letter-spacing="2.5">ROOM SCHEDULE</text>
+<path d="M86.4 87.12 L442.8 87.12" stroke="#3b2816" stroke-width="1.52"/>
+<text x="90" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">ROOM</text>
+<text x="198" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">LEVEL</text>
+<text x="270" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">SIZE</text>
+<text x="360" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">SQ FT</text>
+<text x="403.2" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">CEILING</text>
+<path d="M86.4 102.96 L442.8 102.96" stroke="#3b2816" stroke-width="0.47"/>
+<text x="90" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Living</text>
+<text x="198" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">20'-0" x 16'-6"</text>
+<text x="360" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">330</text>
+<text x="403.2" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 117.36 L442.8 117.36" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Dining</text>
+<text x="198" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">12'-0" x 13'-0"</text>
+<text x="360" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">156</text>
+<text x="403.2" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 131.76 L442.8 131.76" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Closet 2</text>
+<text x="198" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3'-0" x 13'-0"</text>
+<text x="360" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">39</text>
+<text x="403.2" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 146.16 L442.8 146.16" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Bedroom 2</text>
+<text x="198" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">13'-0" x 13'-0"</text>
+<text x="360" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">169</text>
+<text x="403.2" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 160.56 L442.8 160.56" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Hall</text>
+<text x="198" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">28'-0" x 3'-6"</text>
+<text x="360" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">98</text>
+<text x="403.2" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 174.96 L442.8 174.96" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Kitchen</text>
+<text x="198" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">13'-0" x 15'-6"</text>
+<text x="360" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">202</text>
+<text x="403.2" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 189.36 L442.8 189.36" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="200.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Laundry</text>
+<text x="198" y="200.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="200.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">7'-0" x 7'-0"</text>
+<text x="360" y="200.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">49</text>
+<text x="403.2" y="200.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 203.76 L442.8 203.76" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="214.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Mudroom</text>
+<text x="198" y="214.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="214.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">7'-0" x 8'-6"</text>
+<text x="360" y="214.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">60</text>
+<text x="403.2" y="214.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 218.16 L442.8 218.16" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="228.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Bedroom 3</text>
+<text x="198" y="228.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="228.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">11'-0" x 15'-6"</text>
+<text x="360" y="228.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">170</text>
+<text x="403.2" y="228.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 232.56 L442.8 232.56" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="243.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Bath 2</text>
+<text x="198" y="243.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="243.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">6'-0" x 7'-6"</text>
+<text x="360" y="243.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">45</text>
+<text x="403.2" y="243.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 246.96 L442.8 246.96" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="257.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Linen</text>
+<text x="198" y="257.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="257.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">6'-0" x 2'-0"</text>
+<text x="360" y="257.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">12</text>
+<text x="403.2" y="257.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 261.36 L442.8 261.36" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="272.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Primary Bath</text>
+<text x="198" y="272.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="272.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">6'-0" x 6'-0"</text>
+<text x="360" y="272.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">36</text>
+<text x="403.2" y="272.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 275.76 L442.8 275.76" stroke="#8a7354" stroke-width="0.28"/>
+<text x="90" y="286.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Primary Bedroom</text>
+<text x="198" y="286.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="270" y="286.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">11'-0" x 15'-6"</text>
+<text x="360" y="286.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">170</text>
+<text x="403.2" y="286.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">9'-0"</text>
+<path d="M86.4 290.16 L442.8 290.16" stroke="#8a7354" stroke-width="0.28"/>
+<path d="M86.4 290.16 L442.8 290.16" stroke="#3b2816" stroke-width="0.47"/>
+<text x="475.2" y="68.4" font-family="'Times New Roman', Times, serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none" letter-spacing="2.5">WINDOW SCHEDULE</text>
+<path d="M475.2 87.12 L781.2 87.12" stroke="#3b2816" stroke-width="1.52"/>
+<text x="478.8" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">TYPE</text>
+<text x="511.2" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">QTY</text>
+<text x="540" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">SIZE (W X H)</text>
+<text x="633.6" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">OP.</text>
+<text x="673.2" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">GRILLE</text>
+<text x="741.6" y="98.64" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">SILL</text>
+<path d="M475.2 102.96 L781.2 102.96" stroke="#3b2816" stroke-width="0.47"/>
+<text x="478.8" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">A</text>
+<text x="511.2" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">5</text>
+<text x="540" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-6" x 4'-6"</text>
+<text x="633.6" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">DH</text>
+<text x="673.2" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3 over 1</text>
+<text x="741.6" y="113.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-6"</text>
+<path d="M475.2 117.36 L781.2 117.36" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">B</text>
+<text x="511.2" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">7</text>
+<text x="540" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3'-0" x 4'-6"</text>
+<text x="633.6" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">DH</text>
+<text x="673.2" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3 over 1</text>
+<text x="741.6" y="128.16" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-6"</text>
+<path d="M475.2 131.76 L781.2 131.76" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">C</text>
+<text x="511.2" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2</text>
+<text x="540" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-6" x 3'-6"</text>
+<text x="633.6" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">DH</text>
+<text x="673.2" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3 over 1</text>
+<text x="741.6" y="142.56" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3'-6"</text>
+<path d="M475.2 146.16 L781.2 146.16" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D</text>
+<text x="511.2" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">1</text>
+<text x="540" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-6" x 2'-0"</text>
+<text x="633.6" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">AWN</text>
+<text x="673.2" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">1 over 0</text>
+<text x="741.6" y="156.96" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">5'-0"</text>
+<path d="M475.2 160.56 L781.2 160.56" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">E</text>
+<text x="511.2" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2</text>
+<text x="540" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-0" x 2'-6"</text>
+<text x="633.6" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">CSMT</text>
+<text x="673.2" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2 over 0</text>
+<text x="741.6" y="171.36" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">4'-6"</text>
+<path d="M475.2 174.96 L781.2 174.96" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">F</text>
+<text x="511.2" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">1</text>
+<text x="540" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3'-0" x 3'-6"</text>
+<text x="633.6" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">DH</text>
+<text x="673.2" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3 over 1</text>
+<text x="741.6" y="185.76" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3'-6"</text>
+<path d="M475.2 189.36 L781.2 189.36" stroke="#8a7354" stroke-width="0.28"/>
+<path d="M475.2 189.36 L781.2 189.36" stroke="#3b2816" stroke-width="0.47"/>
+<text x="475.2" y="256.32" font-family="'Times New Roman', Times, serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none" letter-spacing="2.5">DOOR SCHEDULE</text>
+<path d="M475.2 275.04 L813.6 275.04" stroke="#3b2816" stroke-width="1.52"/>
+<text x="478.8" y="286.56" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">NO.</text>
+<text x="511.2" y="286.56" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">SIZE</text>
+<text x="590.4" y="286.56" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">TYPE</text>
+<text x="673.2" y="286.56" font-family="'Times New Roman', Times, serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">LOCATION</text>
+<path d="M475.2 290.88 L813.6 290.88" stroke="#3b2816" stroke-width="0.47"/>
+<text x="478.8" y="301.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D1</text>
+<text x="511.2" y="301.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3'-0" x 6'-10"</text>
+<text x="590.4" y="301.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Exterior</text>
+<text x="673.2" y="301.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Entry</text>
+<path d="M475.2 305.28 L813.6 305.28" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="316.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D2</text>
+<text x="511.2" y="316.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-8" x 6'-10"</text>
+<text x="590.4" y="316.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Exterior</text>
+<text x="673.2" y="316.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Mudroom (N)</text>
+<path d="M475.2 319.68 L813.6 319.68" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="330.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D3</text>
+<text x="511.2" y="330.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">6'-0" x -</text>
+<text x="590.4" y="330.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Cased opening</text>
+<text x="673.2" y="330.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Dining / Living</text>
+<path d="M475.2 334.08 L813.6 334.08" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="344.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D4</text>
+<text x="511.2" y="344.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">3'-0" x -</text>
+<text x="590.4" y="344.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Cased opening</text>
+<text x="673.2" y="344.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Hall / Living</text>
+<path d="M475.2 348.48 L813.6 348.48" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="359.28" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D5</text>
+<text x="511.2" y="359.28" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">4'-0" x -</text>
+<text x="590.4" y="359.28" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Cased opening</text>
+<text x="673.2" y="359.28" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Kitchen / Living</text>
+<path d="M475.2 362.88 L813.6 362.88" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="373.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D6</text>
+<text x="511.2" y="373.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-6" x 6'-8"</text>
+<text x="590.4" y="373.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Interior swing</text>
+<text x="673.2" y="373.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Kitchen / Laundry</text>
+<path d="M475.2 377.28 L813.6 377.28" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="388.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D7</text>
+<text x="511.2" y="388.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-8" x 6'-8"</text>
+<text x="590.4" y="388.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Interior swing</text>
+<text x="673.2" y="388.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Kitchen / Mudroom</text>
+<path d="M475.2 391.68 L813.6 391.68" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="402.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D8</text>
+<text x="511.2" y="402.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-8" x 6'-8"</text>
+<text x="590.4" y="402.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Interior swing</text>
+<text x="673.2" y="402.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Bedroom 2 / Hall</text>
+<path d="M475.2 406.08 L813.6 406.08" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="416.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D9</text>
+<text x="511.2" y="416.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-0" x 6'-8"</text>
+<text x="590.4" y="416.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Interior swing</text>
+<text x="673.2" y="416.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Bedroom 2 / Closet 2</text>
+<path d="M475.2 420.48 L813.6 420.48" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="431.28" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D10</text>
+<text x="511.2" y="431.28" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-8" x 6'-8"</text>
+<text x="590.4" y="431.28" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Interior swing</text>
+<text x="673.2" y="431.28" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Bedroom 3 / Hall</text>
+<path d="M475.2 434.88 L813.6 434.88" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="445.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D11</text>
+<text x="511.2" y="445.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-6" x 6'-8"</text>
+<text x="590.4" y="445.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Interior swing</text>
+<text x="673.2" y="445.68" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Bath 2 / Hall</text>
+<path d="M475.2 449.28 L813.6 449.28" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="460.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D12</text>
+<text x="511.2" y="460.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-8" x 6'-8"</text>
+<text x="590.4" y="460.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Interior swing</text>
+<text x="673.2" y="460.08" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Hall / Primary Bedroom</text>
+<path d="M475.2 463.68 L813.6 463.68" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="474.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D13</text>
+<text x="511.2" y="474.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-6" x 6'-8"</text>
+<text x="590.4" y="474.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Interior swing</text>
+<text x="673.2" y="474.48" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Primary Bath / Primary Bedroom</text>
+<path d="M475.2 478.08 L813.6 478.08" stroke="#8a7354" stroke-width="0.28"/>
+<text x="478.8" y="488.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">D14</text>
+<text x="511.2" y="488.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">2'-0" x 6'-8"</text>
+<text x="590.4" y="488.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Interior swing</text>
+<text x="673.2" y="488.88" font-family="'Times New Roman', Times, serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Bath 2 / Linen</text>
+<path d="M475.2 492.48 L813.6 492.48" stroke="#8a7354" stroke-width="0.28"/>
+<path d="M475.2 492.48 L813.6 492.48" stroke="#3b2816" stroke-width="0.47"/>
+<text x="86.4" y="345.6" font-family="'Times New Roman', Times, serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none" letter-spacing="2.5">AREA SUMMARY</text>
+<text x="86.4" y="367.2" font-family="'Times New Roman', Times, serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">First Floor</text>
+<text x="273.6" y="367.2" font-family="'Times New Roman', Times, serif" font-size="7.5" font-weight="bold" font-style="normal" text-anchor="end" fill="#3b2816" stroke="none">1,536 sq ft</text>
+<text x="86.4" y="381.6" font-family="'Times New Roman', Times, serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Total heated</text>
+<text x="273.6" y="381.6" font-family="'Times New Roman', Times, serif" font-size="7.5" font-weight="bold" font-style="normal" text-anchor="end" fill="#3b2816" stroke="none">1,536 sq ft</text>
+<text x="86.4" y="396" font-family="'Times New Roman', Times, serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Porch</text>
+<text x="273.6" y="396" font-family="'Times New Roman', Times, serif" font-size="7.5" font-weight="bold" font-style="normal" text-anchor="end" fill="#3b2816" stroke="none">160 sq ft</text>
+<text x="86.4" y="410.4" font-family="'Times New Roman', Times, serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#3b2816" stroke="none">Roof surface (approx.)</text>
+<text x="273.6" y="410.4" font-family="'Times New Roman', Times, serif" font-size="7.5" font-weight="bold" font-style="normal" text-anchor="end" fill="#3b2816" stroke="none">2,315 sq ft</text>
+</g></svg>

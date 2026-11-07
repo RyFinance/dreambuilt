@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dreambuilt"
+version = "0.1.0"
+description = "Offline AI house designer: describe a house, get floor plans and elevations. Runs entirely on your Mac."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+dependencies = ["shapely>=2.0", "reportlab>=4.0", "pyyaml>=6.0"]
+
+[project.optional-dependencies]
+solver = ["ortools>=9.10"]
+llm = ["mlx-lm>=0.32", "huggingface_hub>=0.24"]
+app = ["PySide6-Essentials>=6.7"]
+dev = ["pytest>=8", "pymupdf>=1.24"]
+
+[project.scripts]
+dreambuilt = "dreambuilt.cli:main"
+
+[project.gui-scripts]
+dreambuilt-app = "dreambuilt.app.main:run"
+
+[tool.setuptools.packages.find]
+include = ["dreambuilt*"]
+
+[tool.setuptools.package-data]
+dreambuilt = ["styles/*.yaml", "data/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

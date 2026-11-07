@@ -1,0 +1,14 @@
+name: Mid-century Modern
+era: 1945-1970
+summary: Long single story under a low gable or flat roof, wide eaves, walls of glass toward the yard.
+roof: {kind: gable, pitch: 3, overhang: 3.0}
+porch: {column: none, pier_height: 0.0, depth: 6}
+windows: {grille: "0/0", operation: fixed, trim: 0.17, sill_height: 1.5, head_height: 7.5}
+front_door: {lites: 0, panels: 0}
+siding: {walls: board-and-batten, exposure: 0.67, gables: glass}
+floor_z: 1.0
+ceiling: 8.0
+details: [clerestory, carport, post-and-beam]
+pattern_book: {catalog: "Homes for Modern Living", tagline: "Indoor-outdoor living"}
+layout: {aspect: 2.1, porch: stoop, porch_width: 8, porch_depth: 5, porch_pitch: 0, columns: none, roof_ridge: long}
+facade: {unit: 6.0, group: 1, height: 3.5, sill: 3.5, rhythm: ribbon}

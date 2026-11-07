@@ -1,0 +1,248 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17in" height="11in" viewBox="0 0 1224 792">
+<rect width="1224" height="792" fill="#ffffff"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M54 763.2 L1195.2 763.2 L1195.2 28.8 L54 28.8 Z" stroke="#1b1b1b" stroke-width="1.4"/>
+<path d="M54 694.8 L1195.2 694.8" stroke="#1b1b1b" stroke-width="1.4"/>
+<path d="M428.4 763.2 L428.4 694.8" stroke="#1b1b1b" stroke-width="0.5"/>
+<path d="M730.8 763.2 L730.8 694.8" stroke="#1b1b1b" stroke-width="0.5"/>
+<path d="M889.2 763.2 L889.2 694.8" stroke="#1b1b1b" stroke-width="0.5"/>
+<path d="M1054.8 763.2 L1054.8 694.8" stroke="#1b1b1b" stroke-width="0.5"/>
+<text x="64.8" y="714.24" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">The Ashbury</text>
+<text x="64.8" y="731.52" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1b1b1b" stroke="none">Craftsman (1905-1930) - 1-story</text>
+<text x="64.8" y="756" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#c8553d" stroke="none">Concept set - not for construction</text>
+<text x="437.04" y="707.04" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Sheet title</text>
+<text x="437.04" y="740.16" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Schedules</text>
+<text x="739.44" y="707.04" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Scale</text>
+<text x="739.44" y="740.16" font-family="Helvetica, Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Not to scale</text>
+<text x="897.84" y="707.04" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Date / drawn by</text>
+<text x="897.84" y="732.96" font-family="Helvetica, Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2026-01-01</text>
+<text x="897.84" y="748.8" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1b1b1b" stroke="none">Dream Built</text>
+<text x="1063.44" y="707.04" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Sheet</text>
+<text x="1125" y="747.36" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">A5.1</text>
+<text x="86.4" y="68.4" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Room schedule</text>
+<path d="M86.4 87.12 L442.8 87.12" stroke="#1b1b1b" stroke-width="1.6"/>
+<text x="90" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Room</text>
+<text x="198" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Level</text>
+<text x="270" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Size</text>
+<text x="360" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Sq ft</text>
+<text x="403.2" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Ceiling</text>
+<path d="M86.4 102.96 L442.8 102.96" stroke="#1b1b1b" stroke-width="0.5"/>
+<text x="90" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Living</text>
+<text x="198" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">20'-0" x 16'-6"</text>
+<text x="360" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">330</text>
+<text x="403.2" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 117.36 L442.8 117.36" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Dining</text>
+<text x="198" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">12'-0" x 13'-0"</text>
+<text x="360" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">156</text>
+<text x="403.2" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 131.76 L442.8 131.76" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Closet 2</text>
+<text x="198" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3'-0" x 13'-0"</text>
+<text x="360" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">39</text>
+<text x="403.2" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 146.16 L442.8 146.16" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Bedroom 2</text>
+<text x="198" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">13'-0" x 13'-0"</text>
+<text x="360" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">169</text>
+<text x="403.2" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 160.56 L442.8 160.56" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Hall</text>
+<text x="198" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">28'-0" x 3'-6"</text>
+<text x="360" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">98</text>
+<text x="403.2" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 174.96 L442.8 174.96" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Kitchen</text>
+<text x="198" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">13'-0" x 15'-6"</text>
+<text x="360" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">202</text>
+<text x="403.2" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 189.36 L442.8 189.36" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="200.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Laundry</text>
+<text x="198" y="200.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="200.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">7'-0" x 7'-0"</text>
+<text x="360" y="200.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">49</text>
+<text x="403.2" y="200.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 203.76 L442.8 203.76" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="214.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Mudroom</text>
+<text x="198" y="214.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="214.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">7'-0" x 8'-6"</text>
+<text x="360" y="214.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">60</text>
+<text x="403.2" y="214.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 218.16 L442.8 218.16" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="228.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Bedroom 3</text>
+<text x="198" y="228.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="228.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">11'-0" x 15'-6"</text>
+<text x="360" y="228.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">170</text>
+<text x="403.2" y="228.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 232.56 L442.8 232.56" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="243.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Bath 2</text>
+<text x="198" y="243.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="243.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">6'-0" x 7'-6"</text>
+<text x="360" y="243.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">45</text>
+<text x="403.2" y="243.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 246.96 L442.8 246.96" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="257.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Linen</text>
+<text x="198" y="257.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="257.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">6'-0" x 2'-0"</text>
+<text x="360" y="257.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">12</text>
+<text x="403.2" y="257.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 261.36 L442.8 261.36" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="272.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Primary Bath</text>
+<text x="198" y="272.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="272.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">6'-0" x 6'-0"</text>
+<text x="360" y="272.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">36</text>
+<text x="403.2" y="272.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 275.76 L442.8 275.76" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="90" y="286.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Primary Bedroom</text>
+<text x="198" y="286.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="270" y="286.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">11'-0" x 15'-6"</text>
+<text x="360" y="286.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">170</text>
+<text x="403.2" y="286.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">9'-0"</text>
+<path d="M86.4 290.16 L442.8 290.16" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M86.4 290.16 L442.8 290.16" stroke="#1b1b1b" stroke-width="0.5"/>
+<text x="475.2" y="68.4" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Window schedule</text>
+<path d="M475.2 87.12 L781.2 87.12" stroke="#1b1b1b" stroke-width="1.6"/>
+<text x="478.8" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Type</text>
+<text x="511.2" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Qty</text>
+<text x="540" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Size (W x H)</text>
+<text x="633.6" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Op.</text>
+<text x="673.2" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Grille</text>
+<text x="741.6" y="98.64" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Sill</text>
+<path d="M475.2 102.96 L781.2 102.96" stroke="#1b1b1b" stroke-width="0.5"/>
+<text x="478.8" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">A</text>
+<text x="511.2" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">5</text>
+<text x="540" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-6" x 4'-6"</text>
+<text x="633.6" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">DH</text>
+<text x="673.2" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3 over 1</text>
+<text x="741.6" y="113.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-6"</text>
+<path d="M475.2 117.36 L781.2 117.36" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">B</text>
+<text x="511.2" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">7</text>
+<text x="540" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3'-0" x 4'-6"</text>
+<text x="633.6" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">DH</text>
+<text x="673.2" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3 over 1</text>
+<text x="741.6" y="128.16" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-6"</text>
+<path d="M475.2 131.76 L781.2 131.76" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">C</text>
+<text x="511.2" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2</text>
+<text x="540" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-6" x 3'-6"</text>
+<text x="633.6" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">DH</text>
+<text x="673.2" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3 over 1</text>
+<text x="741.6" y="142.56" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3'-6"</text>
+<path d="M475.2 146.16 L781.2 146.16" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D</text>
+<text x="511.2" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">1</text>
+<text x="540" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-6" x 2'-0"</text>
+<text x="633.6" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">AWN</text>
+<text x="673.2" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">1 over 0</text>
+<text x="741.6" y="156.96" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">5'-0"</text>
+<path d="M475.2 160.56 L781.2 160.56" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">E</text>
+<text x="511.2" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2</text>
+<text x="540" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-0" x 2'-6"</text>
+<text x="633.6" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">CSMT</text>
+<text x="673.2" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2 over 0</text>
+<text x="741.6" y="171.36" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">4'-6"</text>
+<path d="M475.2 174.96 L781.2 174.96" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">F</text>
+<text x="511.2" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">1</text>
+<text x="540" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3'-0" x 3'-6"</text>
+<text x="633.6" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">DH</text>
+<text x="673.2" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3 over 1</text>
+<text x="741.6" y="185.76" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3'-6"</text>
+<path d="M475.2 189.36 L781.2 189.36" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M475.2 189.36 L781.2 189.36" stroke="#1b1b1b" stroke-width="0.5"/>
+<text x="475.2" y="256.32" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Door schedule</text>
+<path d="M475.2 275.04 L813.6 275.04" stroke="#1b1b1b" stroke-width="1.6"/>
+<text x="478.8" y="286.56" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">No.</text>
+<text x="511.2" y="286.56" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Size</text>
+<text x="590.4" y="286.56" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Type</text>
+<text x="673.2" y="286.56" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Location</text>
+<path d="M475.2 290.88 L813.6 290.88" stroke="#1b1b1b" stroke-width="0.5"/>
+<text x="478.8" y="301.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D1</text>
+<text x="511.2" y="301.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3'-0" x 6'-10"</text>
+<text x="590.4" y="301.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Exterior</text>
+<text x="673.2" y="301.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Entry</text>
+<path d="M475.2 305.28 L813.6 305.28" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="316.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D2</text>
+<text x="511.2" y="316.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-8" x 6'-10"</text>
+<text x="590.4" y="316.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Exterior</text>
+<text x="673.2" y="316.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Mudroom (N)</text>
+<path d="M475.2 319.68 L813.6 319.68" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="330.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D3</text>
+<text x="511.2" y="330.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">6'-0" x -</text>
+<text x="590.4" y="330.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Cased opening</text>
+<text x="673.2" y="330.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Dining / Living</text>
+<path d="M475.2 334.08 L813.6 334.08" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="344.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D4</text>
+<text x="511.2" y="344.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3'-0" x -</text>
+<text x="590.4" y="344.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Cased opening</text>
+<text x="673.2" y="344.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Hall / Living</text>
+<path d="M475.2 348.48 L813.6 348.48" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="359.28" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D5</text>
+<text x="511.2" y="359.28" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">4'-0" x -</text>
+<text x="590.4" y="359.28" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Cased opening</text>
+<text x="673.2" y="359.28" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Kitchen / Living</text>
+<path d="M475.2 362.88 L813.6 362.88" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="373.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D6</text>
+<text x="511.2" y="373.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-6" x 6'-8"</text>
+<text x="590.4" y="373.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Interior swing</text>
+<text x="673.2" y="373.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Kitchen / Laundry</text>
+<path d="M475.2 377.28 L813.6 377.28" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="388.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D7</text>
+<text x="511.2" y="388.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-8" x 6'-8"</text>
+<text x="590.4" y="388.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Interior swing</text>
+<text x="673.2" y="388.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Kitchen / Mudroom</text>
+<path d="M475.2 391.68 L813.6 391.68" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="402.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D8</text>
+<text x="511.2" y="402.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-8" x 6'-8"</text>
+<text x="590.4" y="402.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Interior swing</text>
+<text x="673.2" y="402.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Bedroom 2 / Hall</text>
+<path d="M475.2 406.08 L813.6 406.08" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="416.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D9</text>
+<text x="511.2" y="416.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-0" x 6'-8"</text>
+<text x="590.4" y="416.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Interior swing</text>
+<text x="673.2" y="416.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Bedroom 2 / Closet 2</text>
+<path d="M475.2 420.48 L813.6 420.48" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="431.28" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D10</text>
+<text x="511.2" y="431.28" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-8" x 6'-8"</text>
+<text x="590.4" y="431.28" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Interior swing</text>
+<text x="673.2" y="431.28" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Bedroom 3 / Hall</text>
+<path d="M475.2 434.88 L813.6 434.88" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="445.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D11</text>
+<text x="511.2" y="445.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-6" x 6'-8"</text>
+<text x="590.4" y="445.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Interior swing</text>
+<text x="673.2" y="445.68" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Bath 2 / Hall</text>
+<path d="M475.2 449.28 L813.6 449.28" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="460.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D12</text>
+<text x="511.2" y="460.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-8" x 6'-8"</text>
+<text x="590.4" y="460.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Interior swing</text>
+<text x="673.2" y="460.08" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Hall / Primary Bedroom</text>
+<path d="M475.2 463.68 L813.6 463.68" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="474.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D13</text>
+<text x="511.2" y="474.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-6" x 6'-8"</text>
+<text x="590.4" y="474.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Interior swing</text>
+<text x="673.2" y="474.48" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Primary Bath / Primary Bedroom</text>
+<path d="M475.2 478.08 L813.6 478.08" stroke="#9b9b9b" stroke-width="0.3"/>
+<text x="478.8" y="488.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">D14</text>
+<text x="511.2" y="488.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2'-0" x 6'-8"</text>
+<text x="590.4" y="488.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Interior swing</text>
+<text x="673.2" y="488.88" font-family="Helvetica, Arial, sans-serif" font-size="7" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Bath 2 / Linen</text>
+<path d="M475.2 492.48 L813.6 492.48" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M475.2 492.48 L813.6 492.48" stroke="#1b1b1b" stroke-width="0.5"/>
+<text x="86.4" y="345.6" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Area summary</text>
+<text x="86.4" y="367.2" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">First Floor</text>
+<text x="273.6" y="367.2" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" text-anchor="end" fill="#1b1b1b" stroke="none">1,536 sq ft</text>
+<text x="86.4" y="381.6" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Total heated</text>
+<text x="273.6" y="381.6" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" text-anchor="end" fill="#1b1b1b" stroke="none">1,536 sq ft</text>
+<text x="86.4" y="396" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Porch</text>
+<text x="273.6" y="396" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" text-anchor="end" fill="#1b1b1b" stroke="none">160 sq ft</text>
+<text x="86.4" y="410.4" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Roof surface (approx.)</text>
+<text x="273.6" y="410.4" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="bold" font-style="normal" text-anchor="end" fill="#1b1b1b" stroke="none">2,315 sq ft</text>
+</g></svg>

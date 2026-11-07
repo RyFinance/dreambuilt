@@ -1,0 +1,110 @@
+ARCHITECTURAL DESIGN BRIEF: COMPACT TWO-STOREY MODERN HOME
+Act as an experienced residential architect, structural designer, and interior designer. Design a complete, realistic two-storey modern house on a strictly limited 18 ft × 20 ft (360 sq. ft.) property.
+The objective is to maximize usable living space while creating a visually impressive, comfortable, and functional home.
+Do not ignore the lot dimensions or invent additional land. Every architectural decision must respect the available property.
+1. Site Constraints and Building Dimensions
+Property dimensions:
+
+* Width: 18 feet.
+* Depth: 20 feet.
+* Total lot area: 360 sq. ft.
+* Maximum floors: 2.
+* No basement unless explicitly justified as feasible.
+
+Critical requirements:
+
+* Account for front, rear, and side setbacks.
+* Determine the actual buildable footprint before designing the house.
+* Respect applicable building regulations and fire separation requirements.
+* Do not assume the entire lot can be covered by the building.
+* If the required setbacks make construction impossible, clearly explain the issue rather than producing an unrealistic floor plan.
+
+Aim for the largest practical two-storey building that can legally fit.
+2. Architectural Style
+Create a contemporary luxury townhouse-inspired design.
+The exterior should feature:
+
+* Modern rectangular architectural forms.
+* Warm white or light beige exterior finishes.
+* Natural wood accents.
+* Dark charcoal architectural details.
+* Large black-framed windows where permitted.
+* A distinctive modern entrance.
+* A clean, attractive roofline.
+* Subtle exterior architectural lighting.
+
+The house should look sophisticated and expensive despite its small footprint.
+Avoid making it look like a temporary structure or an oversized shipping container.
+3. Ground Floor Layout
+The ground floor must maximize functionality and minimize wasted circulation space.
+Prioritize:
+
+* Compact entrance foyer.
+* Open-concept kitchen.
+* Small but comfortable living area.
+* Dining space integrated into the kitchen.
+* One practical bathroom if space permits.
+* Integrated storage.
+* Staircase designed to minimize its footprint.
+
+Use multifunctional furniture and built-in storage.
+The kitchen should feature:
+
+* Modern cabinetry.
+* Stone countertops.
+* Compact appliances.
+* Efficient storage.
+* Under-cabinet lighting.
+
+The living area should have:
+
+* Comfortable seating.
+* Television or entertainment wall.
+* Natural lighting.
+* Large windows where permitted.
+
+4. Second Floor Layout
+Use the second floor for private living spaces.
+Prioritize:
+
+* One primary bedroom.
+* One secondary bedroom or flexible office, depending on available space.
+* One full bathroom.
+* Built-in wardrobes.
+* Efficient hallway design.
+* Natural lighting.
+
+If two bedrooms cannot comfortably fit, prioritize one genuinely spacious bedroom rather than forcing in undersized rooms.
+5. Interior Design
+Use a modern minimalist aesthetic.
+Colour palette:
+
+* Warm white.
+* Natural oak.
+* Beige.
+* Light grey.
+* Matte black accents.
+
+Features:
+
+* Light-coloured flooring.
+* Built-in cabinetry.
+* Wall-mounted furniture where practical.
+* Recessed lighting.
+* Large mirrors to create a sense of space.
+* Minimal visual clutter.
+* Consistent materials between floors.
+
+Make the interior feel larger than its actual dimensions.
+6. Exterior and Outdoor Space
+Because the lot is extremely small, outdoor space must be treated carefully.
+Consider:
+
+* A compact front entrance.
+* Vertical landscaping.
+* A small rooftop terrace only if structurally and legally feasible.
+* Large windows for visual openness.
+* Privacy screens.
+* Efficient exterior lighting.
+
+Do not invent a large backyard, driveway, or garage that cannot physically fit.

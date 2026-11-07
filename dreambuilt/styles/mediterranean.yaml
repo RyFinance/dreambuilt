@@ -1,0 +1,14 @@
+name: Mediterranean
+era: 1920-2026
+summary: Smooth stucco walls, low hipped roofs in clay tile with deep shade, tall windows and a stone-trimmed entry.
+roof: {kind: hip, pitch: 4.5, overhang: 1.5, texture: tile}
+porch: {column: square, pier_height: 0.0, depth: 7}
+windows: {grille: "0/0", operation: casement, trim: 0.5, sill_height: 1.5, head_height: 8.5}
+front_door: {lites: 0, panels: 2}
+siding: {walls: stucco, exposure: 0.5, gables: stucco}
+floor_z: 1.0
+ceiling: 10.0
+details: [stone-entry]
+pattern_book: {catalog: "Villa Collection", tagline: "Sun, shade and stone"}
+layout: {aspect: 1.4, porch: portico, porch_width: 12, porch_depth: 7, porch_pitch: 4.5, columns: square, roof_ridge: long}
+facade: {unit: 2.5, group: 1, height: 6.0, sill: 1.5, rhythm: symmetric}

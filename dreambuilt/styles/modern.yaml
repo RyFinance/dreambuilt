@@ -1,0 +1,13 @@
+name: Modern Contemporary
+era: 2010-2026
+summary: Crisp two-storey boxes under low flat roofs with deep overhangs, big black-framed windows, smooth stucco with warm wood panels and a stone base at the entry.
+roof: {kind: flat, pitch: 0.25, overhang: 2.5}
+porch: {column: square, pier_height: 0.0, depth: 6}
+windows: {grille: "0/0", operation: fixed, trim: 0.17, sill_height: 1.5, head_height: 8.5}
+front_door: {lites: 0, panels: 0}
+siding: {walls: stucco, exposure: 0.5, gables: stucco, accent: wood}
+floor_z: 1.0
+ceiling: 10.0
+details: [double-height-entry, big-windows, wood-accent, stone-base]
+pattern_book: {catalog: "Modern Homes", tagline: "Light, line and warmth"}
+layout: {aspect: 1.3, porch: stoop, porch_width: 0, porch_depth: 6, porch_pitch: 0, columns: square, roof_ridge: long}

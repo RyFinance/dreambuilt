@@ -1,0 +1,14 @@
+name: Scandinavian
+era: 2010-2026
+summary: Simple steep-gabled forms with almost no eaves, dark vertical wood cladding, large black-framed glass and a calm, minimal entry.
+roof: {kind: gable, pitch: 12, overhang: 0.5, texture: seam, ridge: front}
+porch: {column: none, pier_height: 0.0, depth: 4}
+windows: {grille: "0/0", operation: fixed, trim: 0.17, sill_height: 1.5, head_height: 8.5}
+front_door: {lites: 0, panels: 0}
+siding: {walls: wood, exposure: 0.4, gables: wood}
+floor_z: 1.0
+ceiling: 9.0
+details: [big-windows]
+pattern_book: {catalog: "Nordic Homes", tagline: "Light, wood and quiet"}
+layout: {aspect: 1.6, porch: stoop, porch_width: 8, porch_depth: 4, porch_pitch: 0, columns: none, roof_ridge: long}
+facade: {unit: 4.0, group: 1, height: 5.5, sill: 1.5, rhythm: asymmetric}

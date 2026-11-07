@@ -1,0 +1,14 @@
+name: Craftsman
+era: 1905-1930
+summary: Low-slung bungalow, deep eaves with exposed rafter tails, tapered porch columns on masonry piers.
+roof: {kind: gable, pitch: 6, overhang: 2.0}
+porch: {column: tapered, pier_height: 3.0, depth: 8}
+windows: {grille: "3/1", operation: double-hung, trim: 0.42, sill_height: 2.5, head_height: 7.0}
+front_door: {lites: 3, panels: 2}
+siding: {walls: lap, exposure: 0.42, gables: shingle}
+floor_z: 2.0
+ceiling: 9.0
+details: [knee-braces, rafter-tails, exterior-chimney]
+pattern_book: {catalog: "Bungalow Designs", tagline: "A home of honest comfort"}
+layout: {aspect: 1.5, porch: gable, porch_width: 0.42, porch_depth: 8, porch_pitch: 8, columns: tapered, roof_ridge: long}
+facade: {unit: 2.5, group: 2, rhythm: grouped}

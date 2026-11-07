@@ -1,0 +1,14 @@
+name: Tudor Revival
+era: 1890-1940
+summary: Steep cross gables, half-timbered gables over brick walls, tall chimneys and grouped casement windows.
+roof: {kind: gable, pitch: 12, overhang: 1.0, ridge: front}
+porch: {column: square, pier_height: 0.0, depth: 6}
+windows: {grille: "2/2", operation: casement, trim: 0.33, sill_height: 2.5, head_height: 7.0}
+front_door: {lites: 1, panels: 2}
+siding: {walls: brick, exposure: 0.25, gables: timber}
+floor_z: 1.5
+ceiling: 9.0
+details: [gable-windows]
+pattern_book: {catalog: "English Cottages", tagline: "Storybook steep and solid"}
+layout: {aspect: 1.4, porch: gable, porch_width: 0.3, porch_depth: 6, porch_pitch: 12, columns: square, roof_ridge: long}
+facade: {unit: 2.0, group: 3, height: 4.5, rhythm: grouped}

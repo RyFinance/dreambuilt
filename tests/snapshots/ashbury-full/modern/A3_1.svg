@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17in" height="11in" viewBox="0 0 1224 792">
+<rect width="1224" height="792" fill="#ffffff"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M54 763.2 L1195.2 763.2 L1195.2 28.8 L54 28.8 Z" stroke="#1b1b1b" stroke-width="1.4"/>
+<path d="M54 694.8 L1195.2 694.8" stroke="#1b1b1b" stroke-width="1.4"/>
+<path d="M428.4 763.2 L428.4 694.8" stroke="#1b1b1b" stroke-width="0.5"/>
+<path d="M730.8 763.2 L730.8 694.8" stroke="#1b1b1b" stroke-width="0.5"/>
+<path d="M889.2 763.2 L889.2 694.8" stroke="#1b1b1b" stroke-width="0.5"/>
+<path d="M1054.8 763.2 L1054.8 694.8" stroke="#1b1b1b" stroke-width="0.5"/>
+<text x="64.8" y="714.24" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">The Ashbury</text>
+<text x="64.8" y="731.52" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1b1b1b" stroke="none">Craftsman (1905-1930) - 1-story</text>
+<text x="64.8" y="756" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="bold" font-style="normal" text-anchor="start" fill="#c8553d" stroke="none">Concept set - not for construction</text>
+<text x="437.04" y="707.04" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Sheet title</text>
+<text x="437.04" y="740.16" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Roof Plan</text>
+<text x="739.44" y="707.04" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Scale</text>
+<text x="739.44" y="740.16" font-family="Helvetica, Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">3/16" = 1'-0"</text>
+<text x="897.84" y="707.04" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Date / drawn by</text>
+<text x="897.84" y="732.96" font-family="Helvetica, Arial, sans-serif" font-size="8.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">2026-01-01</text>
+<text x="897.84" y="748.8" font-family="Helvetica, Arial, sans-serif" font-size="7.5" font-weight="normal" font-style="italic" text-anchor="start" fill="#1b1b1b" stroke="none">Dream Built</text>
+<text x="1063.44" y="707.04" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Sheet</text>
+<text x="1125" y="747.36" font-family="Helvetica, Arial, sans-serif" font-size="22" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">A3.1</text>
+<path d="M816.53 540.67 L168.53 540.67 L168.53 108.67 L816.53 108.67 L816.53 540.67" stroke="#1b1b1b" stroke-width="0.45" stroke-dasharray="3 2"/>
+<path d="M141.53 567.67 L141.53 324.67 L843.53 324.67 L843.53 567.67 L593.78 567.67 L593.78 567.67 L438.53 360.67 L283.28 567.67 L283.28 567.67 L141.53 567.67 Z" fill="#f2f2f2" fill-rule="evenodd" stroke="none"/>
+<path d="M141.53 81.67 L843.53 81.67 L843.53 324.67 L141.53 324.67 L141.53 81.67 Z" fill="#f2f2f2" fill-rule="evenodd" stroke="none"/>
+<path d="M438.53 668.92 L283.28 668.92 L283.28 567.67 L438.53 360.67 L438.53 668.92 Z" fill="#f2f2f2" fill-rule="evenodd" stroke="none"/>
+<path d="M593.78 668.92 L438.53 668.92 L438.53 360.67 L593.78 567.67 L593.78 668.92 Z" fill="#f2f2f2" fill-rule="evenodd" stroke="none"/>
+<path d="M141.53 567.67 L141.53 324.67 L843.53 324.67 L843.53 567.67 L593.78 567.67 L593.78 567.67 L438.53 360.67 L283.28 567.67 L283.28 567.67 L141.53 567.67" stroke="#1b1b1b" stroke-width="0.9"/>
+<path d="M141.53 81.67 L843.53 81.67 L843.53 324.67 L141.53 324.67 L141.53 81.67" stroke="#1b1b1b" stroke-width="0.9"/>
+<path d="M438.53 668.92 L283.28 668.92 L283.28 567.67 L438.53 360.67 L438.53 668.92" stroke="#1b1b1b" stroke-width="0.9"/>
+<path d="M593.78 668.92 L438.53 668.92 L438.53 360.67 L593.78 567.67 L593.78 668.92" stroke="#1b1b1b" stroke-width="0.9"/>
+<path d="M593.78 668.92 L283.28 668.92 L283.28 567.67 L141.53 567.67 L141.53 81.67 L843.53 81.67 L843.53 567.67 L593.78 567.67 L593.78 668.92" stroke="#1b1b1b" stroke-width="1.6"/>
+<path d="M679.84 443.92 L679.84 484.42" stroke="#1b1b1b" stroke-width="0.45"/>
+<path d="M679.84 484.42 L682.11 479.38 L677.57 479.38 Z" fill="#1b1b1b" fill-rule="evenodd" stroke="#1b1b1b" stroke-width="0.45"/>
+<text x="691.99" y="467.55" font-family="Helvetica, Arial, sans-serif" font-size="6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">6:12</text>
+<path d="M492.53 223.42 L492.53 182.92" stroke="#1b1b1b" stroke-width="0.45"/>
+<path d="M492.53 182.92 L490.26 187.96 L494.79 187.96 Z" fill="#1b1b1b" fill-rule="evenodd" stroke="#1b1b1b" stroke-width="0.45"/>
+<text x="480.38" y="206.55" font-family="Helvetica, Arial, sans-serif" font-size="6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">6:12</text>
+<path d="M419.96 464.17 L379.46 464.17" stroke="#1b1b1b" stroke-width="0.45"/>
+<path d="M379.46 464.17 L384.5 466.44 L384.5 461.91 Z" fill="#1b1b1b" fill-rule="evenodd" stroke="#1b1b1b" stroke-width="0.45"/>
+<text x="397.01" y="479.7" font-family="Helvetica, Arial, sans-serif" font-size="6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">8:12</text>
+<path d="M457.09 464.17 L497.59 464.17" stroke="#1b1b1b" stroke-width="0.45"/>
+<path d="M497.59 464.17 L492.55 461.91 L492.55 466.44 Z" fill="#1b1b1b" fill-rule="evenodd" stroke="#1b1b1b" stroke-width="0.45"/>
+<text x="480.04" y="455.4" font-family="Helvetica, Arial, sans-serif" font-size="6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">8:12</text>
+<path d="M168.53 459.67 L168.53 405.67 L141.53 405.67 L141.53 459.67 L168.53 459.67 Z" fill="#ffffff" fill-rule="evenodd" stroke="#1b1b1b" stroke-width="1.1"/>
+<path d="M165.52 459.67 L168.53 456.67" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M157.88 459.67 L168.53 449.03" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M150.25 459.67 L168.53 441.4" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M142.61 459.67 L168.53 433.76" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M141.53 453.12 L168.53 426.12" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M141.53 445.49 L168.53 418.49" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M141.53 437.85 L168.53 410.85" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M141.53 430.21 L166.06 405.67" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M141.53 422.58 L158.43 405.67" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M141.53 414.94 L150.79 405.67" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M141.53 407.3 L143.15 405.67" stroke="#9b9b9b" stroke-width="0.3"/>
+<path d="M148.28 451.57 L161.78 451.57 L161.78 413.77 L148.28 413.77 Z" stroke="#1b1b1b" stroke-width="0.45"/>
+<path d="M141.53 75.91 L141.53 54.31" stroke="#1b1b1b" stroke-width="0.35"/>
+<path d="M843.53 75.91 L843.53 54.31" stroke="#1b1b1b" stroke-width="0.35"/>
+<path d="M137.21 60.07 L847.85 60.07" stroke="#1b1b1b" stroke-width="0.35"/>
+<path d="M137.93 63.67 L145.13 56.48" stroke="#1b1b1b" stroke-width="1.1"/>
+<path d="M839.93 63.67 L847.13 56.48" stroke="#1b1b1b" stroke-width="1.1"/>
+<text x="492.53" y="56.84" font-family="Helvetica, Arial, sans-serif" font-size="6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">52'-0"</text>
+<path d="M849.29 81.67 L870.89 81.67" stroke="#1b1b1b" stroke-width="0.35"/>
+<path d="M849.29 668.92 L870.89 668.92" stroke="#1b1b1b" stroke-width="0.35"/>
+<path d="M865.13 77.36 L865.13 673.25" stroke="#1b1b1b" stroke-width="0.35"/>
+<path d="M861.53 78.07 L868.73 85.27" stroke="#1b1b1b" stroke-width="1.1"/>
+<path d="M861.53 665.32 L868.73 672.52" stroke="#1b1b1b" stroke-width="1.1"/>
+<text x="861.88" y="375.3" font-family="Helvetica, Arial, sans-serif" font-size="6" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none" transform="rotate(-90 861.88 375.3)">43'-6"</text>
+<circle cx="917.87" cy="612" r="12.24" stroke="#1b1b1b" stroke-width="0.7"/>
+<text x="917.87" y="615.6" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">1</text>
+<text x="937.31" y="610.56" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="bold" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">Roof Plan</text>
+<path d="M937.31 616.32 L1052.51 616.32" stroke="#1b1b1b" stroke-width="1.6"/>
+<text x="937.31" y="627.84" font-family="Helvetica, Arial, sans-serif" font-size="6.5" font-weight="normal" font-style="normal" text-anchor="start" fill="#1b1b1b" stroke="none">SCALE: 3/16" = 1'-0"</text>
+<circle cx="1134" cy="97.2" r="23.04" stroke="#1b1b1b" stroke-width="0.45"/>
+<path d="M1134 73.01 L1142.76 113.33 L1134 105.26 Z" fill="#1b1b1b" fill-rule="evenodd" stroke="#1b1b1b" stroke-width="0.45"/>
+<path d="M1134 73.01 L1125.24 113.33 L1134 105.26 Z" stroke="#1b1b1b" stroke-width="0.45"/>
+<text x="1134" y="68.4" font-family="Helvetica, Arial, sans-serif" font-size="9" font-weight="bold" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">N</text>
+<path d="M937.31 648 L991.31 648 L991.31 643.68 L937.31 643.68 Z" fill="#1b1b1b" fill-rule="evenodd" stroke="#1b1b1b" stroke-width="0.45"/>
+<path d="M991.31 648 L1045.31 648 L1045.31 643.68 L991.31 643.68 Z" stroke="#1b1b1b" stroke-width="0.45"/>
+<path d="M1045.31 648 L1153.31 648 L1153.31 643.68 L1045.31 643.68 Z" fill="#1b1b1b" fill-rule="evenodd" stroke="#1b1b1b" stroke-width="0.45"/>
+<text x="937.31" y="640.08" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">0'</text>
+<text x="991.31" y="640.08" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">4'</text>
+<text x="1045.31" y="640.08" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">8'</text>
+<text x="1153.31" y="640.08" font-family="Helvetica, Arial, sans-serif" font-size="5.5" font-weight="normal" font-style="normal" text-anchor="middle" fill="#1b1b1b" stroke="none">16'</text>
+</g></svg>

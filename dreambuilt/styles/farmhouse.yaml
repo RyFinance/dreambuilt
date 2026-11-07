@@ -1,0 +1,14 @@
+name: Modern Farmhouse
+era: 2015-2026
+summary: Steep gables, crisp white board-and-batten, black-framed windows, a standing-seam metal roof and a deep front porch on simple posts.
+roof: {kind: gable, pitch: 10, overhang: 1.5, texture: seam, ridge: front}
+porch: {column: square, pier_height: 0.0, depth: 8}
+windows: {grille: "0/0", operation: casement, trim: 0.33, sill_height: 2.0, head_height: 8.0}
+front_door: {lites: 1, panels: 0}
+siding: {walls: board-and-batten, exposure: 0.5, gables: board-and-batten}
+floor_z: 1.5
+ceiling: 9.0
+details: [window-hoods]
+pattern_book: {catalog: "Farmhouse Plans", tagline: "Simple, bright and built to gather"}
+layout: {aspect: 1.5, porch: shed, porch_width: 0.7, porch_depth: 8, porch_pitch: 3, columns: square, roof_ridge: long}
+facade: {unit: 3.0, group: 1, height: 6.0, sill: 1.5, rhythm: symmetric}

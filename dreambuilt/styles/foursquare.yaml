@@ -1,0 +1,14 @@
+name: American Foursquare
+era: 1895-1930
+summary: Cubic two-story plan of four rooms per floor, hipped roof with a centred dormer, full-width porch.
+roof: {kind: hip, pitch: 7, overhang: 1.75}
+porch: {column: square, pier_height: 3.0, depth: 8}
+windows: {grille: "1/1", operation: double-hung, trim: 0.42, sill_height: 2.5, head_height: 7.0}
+front_door: {lites: 1, panels: 1}
+siding: {walls: lap, exposure: 0.42, gables: shingle}
+floor_z: 2.5
+ceiling: 9.0
+details: [hip-dormer, full-width-porch, belt-course]
+pattern_book: {catalog: "Modern Homes", tagline: "Room for the whole family"}
+layout: {aspect: 1.05, porch: shed, porch_width: 1.0, porch_depth: 8, porch_pitch: 4, columns: square, roof_ridge: long}
+facade: {unit: 3.0, group: 2, rhythm: symmetric}

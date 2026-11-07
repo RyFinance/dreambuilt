@@ -1,0 +1,14 @@
+name: Japanese Minimal
+era: 1950-2026
+summary: Low, wide wings under shallow hipped roofs with deep eaves, long horizontal bands of glass, dark timber and pale plaster, and an engawa veranda along the garden.
+roof: {kind: hip, pitch: 4, overhang: 3.0}
+porch: {column: square, pier_height: 0.0, depth: 6}
+windows: {grille: "3/0", operation: fixed, trim: 0.17, sill_height: 2.5, head_height: 7.5}
+front_door: {lites: 0, panels: 0}
+siding: {walls: stucco, exposure: 0.33, gables: wood, accent: wood}
+floor_z: 1.5
+ceiling: 9.0
+details: [wood-accent]
+pattern_book: {catalog: "Quiet Houses", tagline: "Low roofs, long light"}
+layout: {aspect: 1.7, porch: shed, porch_width: 0.6, porch_depth: 6, porch_pitch: 2, columns: square, roof_ridge: long}
+facade: {unit: 3.0, group: 3, height: 4.0, sill: 3.0, rhythm: ribbon}

@@ -1,0 +1,14 @@
+name: Colonial Revival
+era: 1880-1955
+summary: Symmetrical two-story box, centred door with pediment, side gables, shuttered multi-pane windows.
+roof: {kind: gable, pitch: 9, overhang: 1.0}
+porch: {column: round, pier_height: 0.0, depth: 6}
+windows: {grille: "6/6", operation: double-hung, trim: 0.33, sill_height: 2.5, head_height: 7.0}
+front_door: {lites: 0, panels: 6}
+siding: {walls: clapboard, exposure: 0.33, gables: clapboard}
+floor_z: 2.0
+ceiling: 8.5
+details: [shutters, pediment, symmetric-facade]
+pattern_book: {catalog: "Colonial Homes", tagline: "Dignity in every line"}
+layout: {aspect: 1.6, symmetric: true, porch: portico, porch_width: 10, porch_depth: 6, porch_pitch: 9, columns: round, roof_ridge: long}
+facade: {unit: 3.0, group: 1, rhythm: symmetric}

@@ -1,0 +1,1358 @@
+{
+  "name": "The Halsted",
+  "style": "foursquare",
+  "levels": [
+    {
+      "name": "First Floor",
+      "floor_z": 2.5,
+      "ceiling": 9.0,
+      "rooms": [
+        {
+          "name": "Living",
+          "kind": "living",
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 14
+        },
+        {
+          "name": "Dining",
+          "kind": "dining",
+          "x": 0,
+          "y": 14,
+          "w": 18,
+          "h": 9
+        },
+        {
+          "name": "Kitchen",
+          "kind": "kitchen",
+          "x": 0,
+          "y": 23,
+          "w": 18,
+          "h": 9
+        },
+        {
+          "name": "Entry",
+          "kind": "hall",
+          "x": 18,
+          "y": 0,
+          "w": 12,
+          "h": 8
+        },
+        {
+          "name": "Powder",
+          "kind": "powder",
+          "x": 18,
+          "y": 8,
+          "w": 8,
+          "h": 6
+        },
+        {
+          "name": "Pantry",
+          "kind": "closet",
+          "x": 18,
+          "y": 14,
+          "w": 8,
+          "h": 8
+        },
+        {
+          "name": "Stair",
+          "kind": "stair",
+          "x": 26,
+          "y": 8,
+          "w": 4,
+          "h": 14
+        },
+        {
+          "name": "Mudroom",
+          "kind": "mud",
+          "x": 18,
+          "y": 22,
+          "w": 12,
+          "h": 10
+        }
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "face": "S",
+          "start": 3.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "S",
+          "start": 10.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "door",
+          "face": "S",
+          "start": 20.0,
+          "width": 3.0,
+          "height": 6.83,
+          "sill": 0.0,
+          "grille": null,
+          "operation": "swing",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "S",
+          "start": 25.5,
+          "width": 2.5,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 3.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 9.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 16.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 26.0,
+          "width": 3.0,
+          "height": 3.5,
+          "sill": 3.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 3.5,
+          "width": 3.0,
+          "height": 3.5,
+          "sill": 3.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 9.5,
+          "width": 3.0,
+          "height": 3.5,
+          "sill": 3.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "door",
+          "face": "N",
+          "start": 21.0,
+          "width": 2.67,
+          "height": 6.83,
+          "sill": 0.0,
+          "grille": null,
+          "operation": "swing",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 26.0,
+          "width": 2.0,
+          "height": 3.0,
+          "sill": 4.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "E",
+          "start": 3.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "E",
+          "start": 13.5,
+          "width": 2.0,
+          "height": 3.0,
+          "sill": 4.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "E",
+          "start": 26.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        }
+      ],
+      "doors": [
+        {
+          "x": 18,
+          "y": 7,
+          "axis": "y",
+          "width": 6.0,
+          "kind": "cased",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 18,
+          "y": 18.5,
+          "axis": "y",
+          "width": 6.0,
+          "kind": "cased",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 9,
+          "y": 23,
+          "axis": "x",
+          "width": 5.0,
+          "kind": "cased",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 22,
+          "y": 8,
+          "axis": "x",
+          "width": 2.33,
+          "kind": "swing",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 22,
+          "y": 14,
+          "axis": "x",
+          "width": 2.33,
+          "kind": "swing",
+          "swing": "+",
+          "hinge": "end",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 28,
+          "y": 8,
+          "axis": "x",
+          "width": 3.0,
+          "kind": "cased",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 18,
+          "y": 27,
+          "axis": "y",
+          "width": 3.0,
+          "kind": "cased",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        }
+      ],
+      "fixtures": [
+        {
+          "kind": "stair",
+          "x": 26.25,
+          "y": 8.5,
+          "w": 3.5,
+          "h": 12.5,
+          "back": "N"
+        },
+        {
+          "kind": "counter",
+          "x": 0.5,
+          "y": 29.5,
+          "w": 17.0,
+          "h": 2.0,
+          "back": "N"
+        },
+        {
+          "kind": "sink",
+          "x": 5.0,
+          "y": 29.5,
+          "w": 3.0,
+          "h": 2.0,
+          "back": "N"
+        },
+        {
+          "kind": "range",
+          "x": 12.0,
+          "y": 29.5,
+          "w": 2.5,
+          "h": 2.0,
+          "back": "N"
+        },
+        {
+          "kind": "fridge",
+          "x": 15.0,
+          "y": 29.5,
+          "w": 2.75,
+          "h": 2.25,
+          "back": "N"
+        },
+        {
+          "kind": "counter",
+          "x": 5.0,
+          "y": 24.5,
+          "w": 8.0,
+          "h": 3.0,
+          "back": "S"
+        },
+        {
+          "kind": "toilet",
+          "x": 23.5,
+          "y": 11.25,
+          "w": 1.5,
+          "h": 2.5,
+          "back": "N"
+        },
+        {
+          "kind": "vanity",
+          "x": 19.0,
+          "y": 11.5,
+          "w": 2.0,
+          "h": 2.0,
+          "back": "N"
+        },
+        {
+          "kind": "washer",
+          "x": 26.5,
+          "y": 29.25,
+          "w": 2.5,
+          "h": 2.5,
+          "back": "N"
+        },
+        {
+          "kind": "closet",
+          "x": 18.5,
+          "y": 14.5,
+          "w": 7.0,
+          "h": 2.0,
+          "back": "S"
+        }
+      ],
+      "floor_depth": 1.0
+    },
+    {
+      "name": "Second Floor",
+      "floor_z": 12.5,
+      "ceiling": 9.0,
+      "rooms": [
+        {
+          "name": "Bedroom 2",
+          "kind": "bedroom",
+          "x": 0,
+          "y": 0,
+          "w": 15,
+          "h": 13
+        },
+        {
+          "name": "Linen",
+          "kind": "closet",
+          "x": 0,
+          "y": 13,
+          "w": 6,
+          "h": 4
+        },
+        {
+          "name": "Hall",
+          "kind": "hall",
+          "x": 6,
+          "y": 13,
+          "w": 20,
+          "h": 4
+        },
+        {
+          "name": "Bedroom 3",
+          "kind": "bedroom",
+          "x": 0,
+          "y": 17,
+          "w": 15,
+          "h": 15
+        },
+        {
+          "name": "Bedroom 4",
+          "kind": "bedroom",
+          "x": 15,
+          "y": 0,
+          "w": 11,
+          "h": 13
+        },
+        {
+          "name": "Closet",
+          "kind": "closet",
+          "x": 26,
+          "y": 0,
+          "w": 4,
+          "h": 8
+        },
+        {
+          "name": "Stair",
+          "kind": "stair",
+          "x": 26,
+          "y": 8,
+          "w": 4,
+          "h": 14
+        },
+        {
+          "name": "Bath 2",
+          "kind": "bath",
+          "x": 15,
+          "y": 17,
+          "w": 11,
+          "h": 5
+        },
+        {
+          "name": "Bath 3",
+          "kind": "bath",
+          "x": 15,
+          "y": 22,
+          "w": 8,
+          "h": 10
+        },
+        {
+          "name": "Laundry",
+          "kind": "laundry",
+          "x": 23,
+          "y": 22,
+          "w": 7,
+          "h": 10
+        }
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "face": "S",
+          "start": 3.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "S",
+          "start": 9.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "S",
+          "start": 19.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 3.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 9.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 21.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 27.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 3.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 9.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 18.0,
+          "width": 2.0,
+          "height": 3.0,
+          "sill": 4.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 26.0,
+          "width": 2.0,
+          "height": 3.0,
+          "sill": 4.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "E",
+          "start": 3.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "E",
+          "start": 13.5,
+          "width": 2.0,
+          "height": 3.0,
+          "sill": 4.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "E",
+          "start": 26.0,
+          "width": 2.0,
+          "height": 3.0,
+          "sill": 4.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        }
+      ],
+      "doors": [
+        {
+          "x": 10,
+          "y": 13,
+          "axis": "x",
+          "width": 2.67,
+          "kind": "swing",
+          "swing": "-",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 20,
+          "y": 13,
+          "axis": "x",
+          "width": 2.67,
+          "kind": "swing",
+          "swing": "-",
+          "hinge": "end",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 10,
+          "y": 17,
+          "axis": "x",
+          "width": 2.67,
+          "kind": "swing",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 20,
+          "y": 17,
+          "axis": "x",
+          "width": 2.5,
+          "kind": "swing",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 6,
+          "y": 15,
+          "axis": "y",
+          "width": 2.0,
+          "kind": "swing",
+          "swing": "-",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 26,
+          "y": 15,
+          "axis": "y",
+          "width": 3.0,
+          "kind": "cased",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 15,
+          "y": 27,
+          "axis": "y",
+          "width": 2.5,
+          "kind": "swing",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 28,
+          "y": 22,
+          "axis": "x",
+          "width": 2.67,
+          "kind": "swing",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 26,
+          "y": 4,
+          "axis": "y",
+          "width": 2.33,
+          "kind": "swing",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        }
+      ],
+      "fixtures": [
+        {
+          "kind": "stair-down",
+          "x": 26.25,
+          "y": 8.5,
+          "w": 3.5,
+          "h": 12.5,
+          "back": "N"
+        },
+        {
+          "kind": "tub",
+          "x": 15.5,
+          "y": 19.25,
+          "w": 5.0,
+          "h": 2.5,
+          "back": "N"
+        },
+        {
+          "kind": "toilet",
+          "x": 21.0,
+          "y": 19.5,
+          "w": 1.5,
+          "h": 2.25,
+          "back": "N"
+        },
+        {
+          "kind": "vanity",
+          "x": 23.0,
+          "y": 19.75,
+          "w": 2.75,
+          "h": 2.0,
+          "back": "N"
+        },
+        {
+          "kind": "shower",
+          "x": 15.25,
+          "y": 28.75,
+          "w": 3.0,
+          "h": 3.0,
+          "back": "W"
+        },
+        {
+          "kind": "vanity",
+          "x": 19.5,
+          "y": 29.75,
+          "w": 3.25,
+          "h": 2.0,
+          "back": "N"
+        },
+        {
+          "kind": "toilet",
+          "x": 15.5,
+          "y": 22.5,
+          "w": 1.5,
+          "h": 2.25,
+          "back": "S"
+        },
+        {
+          "kind": "washer",
+          "x": 24.0,
+          "y": 29.25,
+          "w": 2.5,
+          "h": 2.5,
+          "back": "N"
+        },
+        {
+          "kind": "dryer",
+          "x": 26.75,
+          "y": 29.25,
+          "w": 2.5,
+          "h": 2.5,
+          "back": "N"
+        },
+        {
+          "kind": "closet",
+          "x": 1.0,
+          "y": 11.0,
+          "w": 7.0,
+          "h": 2.0,
+          "back": "N"
+        },
+        {
+          "kind": "closet",
+          "x": 1.0,
+          "y": 17.25,
+          "w": 7.0,
+          "h": 2.0,
+          "back": "S"
+        }
+      ],
+      "floor_depth": 1.0
+    },
+    {
+      "name": "Third Floor",
+      "floor_z": 22.5,
+      "ceiling": 9.0,
+      "rooms": [
+        {
+          "name": "Primary Bedroom",
+          "kind": "bedroom",
+          "x": 0,
+          "y": 0,
+          "w": 18,
+          "h": 15
+        },
+        {
+          "name": "Primary Bath",
+          "kind": "bath",
+          "x": 0,
+          "y": 15,
+          "w": 11,
+          "h": 9
+        },
+        {
+          "name": "Closet",
+          "kind": "closet",
+          "x": 11,
+          "y": 15,
+          "w": 7,
+          "h": 9
+        },
+        {
+          "name": "Office",
+          "kind": "office",
+          "x": 0,
+          "y": 24,
+          "w": 18,
+          "h": 8
+        },
+        {
+          "name": "Studio",
+          "kind": "office",
+          "x": 18,
+          "y": 0,
+          "w": 12,
+          "h": 8
+        },
+        {
+          "name": "Hall",
+          "kind": "hall",
+          "x": 18,
+          "y": 8,
+          "w": 8,
+          "h": 14
+        },
+        {
+          "name": "Stair",
+          "kind": "stair",
+          "x": 26,
+          "y": 8,
+          "w": 4,
+          "h": 14
+        },
+        {
+          "name": "Bonus Room",
+          "kind": "family",
+          "x": 18,
+          "y": 22,
+          "w": 12,
+          "h": 10
+        }
+      ],
+      "openings": [
+        {
+          "kind": "window",
+          "face": "S",
+          "start": 3.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "S",
+          "start": 10.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "S",
+          "start": 19.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "S",
+          "start": 24.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 3.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 9.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 19.0,
+          "width": 2.0,
+          "height": 3.0,
+          "sill": 4.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "W",
+          "start": 27.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 3.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 9.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 19.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "N",
+          "start": 24.5,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "E",
+          "start": 3.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "E",
+          "start": 13.5,
+          "width": 2.0,
+          "height": 3.0,
+          "sill": 4.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        },
+        {
+          "kind": "window",
+          "face": "E",
+          "start": 26.0,
+          "width": 3.0,
+          "height": 5.0,
+          "sill": 2.5,
+          "grille": null,
+          "operation": "double-hung",
+          "mark": null,
+          "line": null
+        }
+      ],
+      "doors": [
+        {
+          "x": 18,
+          "y": 11,
+          "axis": "y",
+          "width": 2.67,
+          "kind": "swing",
+          "swing": "-",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 22,
+          "y": 8,
+          "axis": "x",
+          "width": 2.67,
+          "kind": "swing",
+          "swing": "-",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 22,
+          "y": 22,
+          "axis": "x",
+          "width": 2.67,
+          "kind": "swing",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 18,
+          "y": 28,
+          "axis": "y",
+          "width": 2.67,
+          "kind": "swing",
+          "swing": "-",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 5,
+          "y": 15,
+          "axis": "x",
+          "width": 2.5,
+          "kind": "swing",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 14.5,
+          "y": 15,
+          "axis": "x",
+          "width": 2.33,
+          "kind": "swing",
+          "swing": "+",
+          "hinge": "end",
+          "height": 6.67,
+          "mark": null
+        },
+        {
+          "x": 26,
+          "y": 15,
+          "axis": "y",
+          "width": 3.0,
+          "kind": "cased",
+          "swing": "+",
+          "hinge": "start",
+          "height": 6.67,
+          "mark": null
+        }
+      ],
+      "fixtures": [
+        {
+          "kind": "stair-down",
+          "x": 26.25,
+          "y": 8.5,
+          "w": 3.5,
+          "h": 12.5,
+          "back": "N"
+        },
+        {
+          "kind": "tub",
+          "x": 0.5,
+          "y": 21.0,
+          "w": 5.5,
+          "h": 2.75,
+          "back": "N"
+        },
+        {
+          "kind": "shower",
+          "x": 7.5,
+          "y": 20.5,
+          "w": 3.25,
+          "h": 3.25,
+          "back": "N"
+        },
+        {
+          "kind": "vanity",
+          "x": 0.5,
+          "y": 15.25,
+          "w": 6.0,
+          "h": 2.0,
+          "back": "S"
+        },
+        {
+          "kind": "toilet",
+          "x": 8.75,
+          "y": 15.5,
+          "w": 1.5,
+          "h": 2.25,
+          "back": "S"
+        },
+        {
+          "kind": "closet",
+          "x": 11.25,
+          "y": 15.5,
+          "w": 2.0,
+          "h": 8.0,
+          "back": "W"
+        },
+        {
+          "kind": "closet",
+          "x": 15.75,
+          "y": 15.5,
+          "w": 2.0,
+          "h": 8.0,
+          "back": "E"
+        }
+      ],
+      "floor_depth": 1.0
+    }
+  ],
+  "roofs": [
+    {
+      "name": "Main",
+      "x": 0,
+      "y": 0,
+      "w": 30,
+      "h": 32,
+      "kind": "hip",
+      "ridge": "y",
+      "pitch": 7,
+      "overhang": 1.75,
+      "plate_z": 31.5,
+      "gable_ends": [],
+      "low_side": "S"
+    },
+    {
+      "name": "Porch",
+      "x": 0,
+      "y": -7,
+      "w": 30,
+      "h": 7,
+      "kind": "shed",
+      "ridge": "x",
+      "pitch": 4,
+      "overhang": 1.0,
+      "plate_z": 11.5,
+      "gable_ends": [],
+      "low_side": "S"
+    }
+  ],
+  "porches": [
+    {
+      "x": 0,
+      "y": -7,
+      "w": 30,
+      "h": 7,
+      "floor_z": 2.5,
+      "columns": [
+        [
+          1.0,
+          -6.0
+        ],
+        [
+          10.0,
+          -6.0
+        ],
+        [
+          20.0,
+          -6.0
+        ],
+        [
+          29.0,
+          -6.0
+        ]
+      ],
+      "column": "square",
+      "pier_height": 3.0,
+      "beam_z": 0.0,
+      "steps": [
+        {
+          "x": 18.5,
+          "width": 6.0,
+          "face": "S",
+          "risers": 4
+        }
+      ]
+    }
+  ],
+  "chimneys": [],
+  "lot": {
+    "width": 50,
+    "depth": 120,
+    "front": 25,
+    "rear": 20,
+    "side": 5,
+    "house_x": 10,
+    "house_y": 34,
+    "street": "Halsted Street"
+  },
+  "brief": {
+    "style": "Foursquare",
+    "stories": 3,
+    "beds": 4,
+    "baths": 3.5,
+    "sqft": 2900,
+    "lot": "50' x 120'",
+    "must_haves": [
+      "full-width front porch",
+      "third-floor primary suite",
+      "upstairs laundry",
+      "mudroom"
+    ]
+  },
+  "notes": [
+    "Hipped roof with deep eaves; belt course at each floor line.",
+    "Square porch columns on brick piers."
+  ]
+}
